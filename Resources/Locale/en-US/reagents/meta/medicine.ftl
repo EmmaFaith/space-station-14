@@ -96,3 +96,6 @@ reagent-desc-ethyloxyephedrine = An unstable medicine derived from desoxyephedri
 
 reagent-name-diphenylmethylamine = diphenylmethylamine
 reagent-desc-diphenylmethylamine = A more stable medicine than ethyloxyephedrine. Useful for keeping someone awake.
+
+reagent-name-meralyne = meralyne
+reagent-desc-meralyne = An advanced chemical that is more effective at treating brute damage than Bicaridine.
